@@ -10,15 +10,15 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 
 | Item | - |
 | ---------------------------------- | --- |
-| License Type | Personal  |
+| License Type | Developer  |
 | Use for print | **YES** |
 | Product sale | **YES** |
-| Create single personal website/app | **YES** | 
-| Create single website/app for client | **YES** | 
-| Create multiple personal websites/apps with **NON-PAYING** users | **YES** | 
-| Create multiple websites/apps for clients with **NON-PAYING** users | **YES** | 
-| Create single SaaS application with **PAYING** users | **YES** | 
-| Create single End-product with **PAYING** users | **YES** | 
+| Create single personal website/app - **NON-PAYING** users | **YES** | 
+| Create single website/app for client - **NON-PAYING** users | **YES** | 
+| Create multiple personal websites/apps - **NON-PAYING** users | **YES** | 
+| Create multiple websites/apps for clients - **NON-PAYING** users | **YES** | 
+| Create single SaaS application - **PAYING** users | **YES** | 
+| Create single End-product - **PAYING** users | **YES** | 
 | --- | --- |
 | Create multiple SaaS applications | NO | 
 | Create multiple End-products with **PAYING** users | NO | 
