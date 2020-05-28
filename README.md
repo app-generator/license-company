@@ -24,5 +24,9 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 
 <br />
 
+> For simple hobby/comercial projects we provide a **[Personal License](https://github.com/app-generator/license-personal)**
+
+<br />
+
 ---
 For more information regarding licensing, please contact the AppSeed Service < *support@appseed.us* >
