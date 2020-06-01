@@ -32,8 +32,8 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 
 SaaS samples:
 
-- A marketplace with digital products accesible to end-users via a subscription or one-time payment model
-- A marketplace with physical products accesible to end-users via a subscription or one-time payment model
+- A marketplace with digital products accessible to end-users via a subscription or one-time payment model
+- A marketplace with physical products accessible to end-users via a subscription or one-time payment model
 - A dashboard where users access the centralized information via a subscription or one-time payment model   
 
 <br />
