@@ -16,7 +16,9 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 | Create multiple personal websites/apps | **YES** |  
 | Create multiple websites/apps for clients | **YES** |  
 | Create single SaaS application | **YES** | 
+| Remove footer credits | **YES** |
 | --- | --- |
+| Remove copyright mentions from source code | NO |
 | Create multiple SaaS applications | NO | 
 | Create HTML/CSS template for sale | NO |
 | Create Theme/Template for CMS for sale | NO |
