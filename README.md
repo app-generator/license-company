@@ -10,8 +10,10 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 
 | Item | - |
 | ---------------------------------- | --- |
-| License Type | Company  |
 | Team Size | Unlimited |
+| Tech Support | 12 months |
+| Free Updates | 12 months |
+| --- | --- |
 | Product sale | **YES** |
 | Create multiple personal websites/apps | **YES** |
 | Create multiple websites/apps for clients | **YES** |
