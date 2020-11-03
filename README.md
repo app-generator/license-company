@@ -1,4 +1,4 @@
-# Developer License
+# Company License
 
 Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 
@@ -10,12 +10,12 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 
 | Item | - |
 | ---------------------------------- | --- |
-| License Type | Developer  |
-| Use for print | **YES** |
+| License Type | Company  |
+| Team Size | Unlimited |
 | Product sale | **YES** |
 | Create multiple personal websites/apps | **YES** |
 | Create multiple websites/apps for clients | **YES** |
-| Create single SaaS application | **YES** |
+| Create SINGLE SaaS application | **YES** |
 | Remove footer credits | **YES** |
 | --- | --- |
 | Remove copyright mentions from source code | NO |
@@ -39,7 +39,9 @@ SaaS samples:
 
 <br />
 
-> For simple hobby/comercial projects we provide a **[Personal](https://github.com/app-generator/license-personal)** and **[MIT](https://github.com/app-generator/license-mit)** licenses.  
+> For simple hobby/comercial projects we provide a **[Personal](https://github.com/app-generator/license-personal)** 
+
+> For StartUps (1 - 5 people) we provide a **[StartUp License](https://github.com/app-generator/license-startup)**
 
 <br />
 
