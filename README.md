@@ -10,7 +10,7 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 
 | Item | - |
 | ---------------------------------- | --- |
-| Team Size | Unlimited |
+| Team Size | **Unlimited** |
 | Email Support < *support@appseed.us* > | 12 months |
 | [Discord](https://discord.gg/fZC6hup) Support - **24/7 LIVE Service** | 12 months |
 | Free Updates | **Lifetime** |
