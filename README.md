@@ -40,11 +40,5 @@ SaaS samples:
 
 <br />
 
-> For simple hobby/comercial projects we provide a **[Personal](https://github.com/app-generator/license-personal)** 
-
-> For StartUps (1 - 5 people) we provide a **[StartUp License](https://github.com/app-generator/license-startup)**
-
-<br />
-
 ---
 For more information regarding licensing, please contact the AppSeed Service < *support@appseed.us* >
