@@ -25,6 +25,7 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 | Create HTML/CSS template for sale | NO |
 | Create Theme/Template for CMS for sale | NO |
 | Separate sale of our UI Elements | NO |
+| **Redistribution** (sell on other marketplaces like Codecanyon) | **NO** |
 
 <br />
 
